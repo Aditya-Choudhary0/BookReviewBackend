@@ -215,6 +215,7 @@ curl "http://localhost:3000/books/search?query=george"
 
 ## 👨‍💻 Author
 
-Aditya Choudhary
+Aditya Choudhary.
+
 Built for educational and practice purposes.
 
