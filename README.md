@@ -217,5 +217,3 @@ curl "http://localhost:3000/books/search?query=george"
 
 Aditya Choudhary.
 
-Built for educational and practice purposes.
-
